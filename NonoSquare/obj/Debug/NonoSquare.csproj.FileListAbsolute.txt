@@ -1,0 +1,106 @@
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\NonoSquare.exe.config
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\NonoSquare.exe
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\NonoSquare.pdb
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Properties.Resources.resources
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.GenerateResource.cache
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.exe
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.pdb
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.dll
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.pdb
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.xml
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.CopyComplete
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.SplashScreen.resources
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.MainScreen.resources
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.StartUpScreen.resources
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\bin\Debug\World.xml
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.ReceiveLove.resources
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.SpreadLove.resources
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csprojAssemblyReference.cache
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.LoveCheck.resources
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Bot.resources
+C:\Users\Cynric\source\repos\NonoSquare\NonoSquare\obj\Debug\NonoSquare.DimScreen.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csprojAssemblyReference.cache
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.exe
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.pdb
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\NonoSquare.exe.config
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\NonoSquare.exe
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\NonoSquare.pdb
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.dll
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.pdb
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.xml
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Bot.resources
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.DimScreen.resources
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.MainScreen.resources
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.SplashScreen.resources
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.StartUpScreen.resources
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Properties.Resources.resources
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.LoveCheck.resources
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.GenerateResource.cache
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.CopyComplete
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.exe
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.pdb
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Information.resources
+C:\Users\Cynric\Documents\Let's see\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csprojAssemblyReference.cache
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\NonoSquare.exe.config
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\NonoSquare.exe
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\NonoSquare.pdb
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.dll
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.pdb
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.xml
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csprojAssemblyReference.cache
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Bot.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.DimScreen.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Information.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.MainScreen.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.SplashScreen.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.StartUpScreen.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Properties.Resources.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.LoveCheck.resources
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.GenerateResource.cache
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.CopyComplete
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.exe
+C:\Users\Herve\Downloads\NonoSquare-20200523T060824Z-001-20200524T211800Z-001\NonoSquare-20200523T060824Z-001\NonoSquare\NonoSquare\obj\Debug\NonoSquare.pdb
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\NonoSquare.exe.config
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\NonoSquare.exe
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\NonoSquare.pdb
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.dll
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.pdb
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.xml
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csprojAssemblyReference.cache
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Bot.resources
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.DimScreen.resources
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Information.resources
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.MainScreen.resources
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.SplashScreen.resources
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.StartUpScreen.resources
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.Properties.Resources.resources
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.LoveCheck.resources
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.GenerateResource.cache
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.CoreCompileInputs.cache
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.csproj.CopyComplete
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.exe
+C:\Users\Herve\Desktop\git\NonoSquare\NonoSquare\obj\Debug\NonoSquare.pdb

@@ -1,0 +1,55 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Windows.Forms;
+
+namespace NonoSquare
+{
+    public partial class ReceiveLove : Form
+    {
+        public ReceiveLove()
+        {
+            InitializeComponent();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            StreamReader sr = new StreamReader(@"C:\\Users\\Cynric\\Documents\\SpreadLove.txt");
+            List<string> messages = new List<string>();
+            while (sr.Peek() != -1)
+            {
+                messages.Add(sr.ReadLine());
+            }
+
+            Random r = new Random();
+            int which = r.Next(1, (messages.Count - 1));
+            bunifuCustomTextbox1.Text = messages[which];
+        }
+
+        private void hoverGenerate(object sender, EventArgs e)
+        {
+            generateButton.BackgroundImage = Properties.Resources.generate_hover;
+        }
+
+        private void unhoverGenerate(object sender, EventArgs e)
+        {
+            generateButton.BackgroundImage = Properties.Resources.generate_unhover;
+        }
+
+
+        private void pictureBox3_MouseHover(object sender, EventArgs e)
+        {
+            thanksButton.BackgroundImage = Properties.Resources.thanks_hover;
+        }
+
+        private void pictureBox3_MouseLeave(object sender, EventArgs e)
+        {
+            thanksButton.BackgroundImage = Properties.Resources.thanks_unhover;
+        }
+
+        private void clickThanks(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
